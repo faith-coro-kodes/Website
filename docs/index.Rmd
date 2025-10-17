@@ -17,7 +17,7 @@ output:
 ## Bio
 
 Faith Okoro is a Computational Biology student with minors in Programming and
-computation and Museum Studies. 
+computation and Museum Studies. Her research is focused on...
 
 and their applications at Google 
 Brain. His research focuses on differentiable network pruning approximation and 
