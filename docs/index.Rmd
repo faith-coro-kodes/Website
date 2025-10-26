@@ -3,41 +3,36 @@ title: "Faith Okoro"
 #image: "frank.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
-  - label: GitHub
-    url: "https://github.com/"
+    url: "https://www.linkedin.com/in/faith--okoro/"
+#  - label: Twitter
+#    url: "https://twitter.com/"
+#  - label: GitHub
+#    url: "https://github.com/"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "faith06okoro@gmial.com"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-Faith Okoro is a Computational Biology student with minors in Programming and
-computation and Museum Studies. Her research is focused on...
-
-and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Faith Okoro is a Pre-Medical Computational Biology student with a minor in Programming and
+computation, in addition to a minor in museum studies. My research is focused on using exploratory data analysis to study the effects of mixed contaminants like pesticides and pharmaceuticals on urban stream ecosystems. 
+My studies in programming and computation provide the essential toolkit for me to transform complex biological data into predictive models for solution-building.
+Complementing this scientific framework is my passion for museum studies and learning how to curate complex stories and make specialized knowledge accessible and impactful for a diverse audience.
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**The University of Texas at Austin** | Austin, TX
 
-Ph.D. in Computer Science | September 2009 - May 2014
+B.S. in Computational Biology | August 2023 - May 2027
 
-**The University of California, Berkeley** | Berkeley, CA
-
-B.S. in Computer Science | September 2005 - May 2009
+Minor in Programming and computation, Museum Studie
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**Village at Triangle** | Resident Medication Aide | Aug 2025 - present
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+**UT Austin** | High School Research Academy Mentor | May 2025 - July 2025
+
+**EditCo Bio** | Account Development Representative | June 2024 - June 2025
