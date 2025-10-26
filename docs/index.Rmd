@@ -9,7 +9,7 @@ links:
 #  - label: GitHub
 #    url: "https://github.com/"
   - label: Email
-    url: "faith06okoro@gmial.com"
+    url: "faith06okoro@gmail.com"
 output:
   postcards::trestles
 ---
@@ -27,7 +27,7 @@ Complementing this scientific framework is my passion for museum studies and lea
 
 B.S. in Computational Biology | August 2023 - May 2027
 
-Minor in Programming and computation, Museum Studie
+Minor in Programming and computation, Museum Studies
 
 ## Experience
 
