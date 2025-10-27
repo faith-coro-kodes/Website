@@ -3,9 +3,9 @@ title: "Faith Okoro"
 #image: "frank.jpg"
 links:
   - label: LinkedIn
-    url: "https://www.linkedin.com/in/faith--okoro/"
-#  - label: Twitter
-#    url: "https://twitter.com/"
+    url: "https://www.linkedin.com/in/faith%2D%2Dokoro/"
+  - label: Research
+    url: "https://event.fourwaves.com/urforum/abstracts/951293d7-c34f-4146-90f1-bcc5ac867575"
 #  - label: GitHub
 #    url: "https://github.com/"
   - label: Email
