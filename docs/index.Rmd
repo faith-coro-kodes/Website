@@ -5,7 +5,7 @@ links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/faith%2D%2Dokoro/"
   - label: Research
-    url: "https://event.fourwaves.com/urforum/abstracts/951293d7-c34f-4146-90f1-bcc5ac867575"
+    url: "https://event.fourwaves.com/urforum2025/abstracts/951293d7-c34f-4146-90f1-bcc5ac867575/poster"
 #  - label: GitHub
 #    url: "https://github.com/"
   - label: Email
